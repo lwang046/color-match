@@ -39,19 +39,6 @@ public class ColorDetailActivity extends AppCompatActivity {
     }
     
     private String getColorName(int color) {
-        // ===== BASIC COLORS =====
-        if (color == Color.BLACK) return "Black";
-        if (color == Color.WHITE) return "White";
-        if (color == Color.RED) return "Red";
-        if (color == Color.GREEN) return "Green";
-        if (color == Color.BLUE) return "Blue";
-        if (color == Color.YELLOW) return "Yellow";
-        if (color == Color.CYAN) return "Cyan";
-        if (color == Color.MAGENTA) return "Magenta";
-        if (color == Color.GRAY) return "Gray";
-        if (color == Color.DKGRAY) return "Dark Gray";
-        if (color == Color.LTGRAY) return "Light Gray";
-        
         // ===== PURE COLORS =====
         if (color == Color.parseColor("#FF0000")) return "Pure Red";
         if (color == Color.parseColor("#00FF00")) return "Pure Green";

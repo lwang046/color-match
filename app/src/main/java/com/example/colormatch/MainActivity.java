@@ -43,19 +43,6 @@ public class MainActivity extends AppCompatActivity {
     private List<Integer> generateColors() {
         List<Integer> colors = new ArrayList<>();
         
-        // ===== BASIC COLORS =====
-        colors.add(Color.BLACK);                    // Black
-        colors.add(Color.WHITE);                    // White
-        colors.add(Color.RED);                      // Red
-        colors.add(Color.GREEN);                    // Green
-        colors.add(Color.BLUE);                     // Blue
-        colors.add(Color.YELLOW);                   // Yellow
-        colors.add(Color.CYAN);                     // Cyan
-        colors.add(Color.MAGENTA);                  // Magenta
-        colors.add(Color.GRAY);                     // Gray
-        colors.add(Color.DKGRAY);                   // Dark Gray
-        colors.add(Color.LTGRAY);                   // Light Gray
-        
         // ===== PURE COLORS =====
         colors.add(Color.parseColor("#FF0000"));    // Pure Red
         colors.add(Color.parseColor("#00FF00"));    // Pure Green
