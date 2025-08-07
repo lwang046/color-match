@@ -1,15 +1,38 @@
+# Keystore files (security sensitive)
+color-match-release-key.keystore
+*.jks
+*.keystore
+*.pem
+*.p12
+
+# APKs and app bundles
+*.apk
+*.ap_ 
+*.aab
+
+# Gradle build output
+/build/
+/app/build/
+
+# Android Studio/IntelliJ project files
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+
+# Local configuration files
 local.properties
+
+# Mac system files
+.DS_Store
+
+# Crashlytics and Fabric generated files
+crashlytics-build.properties
+fabric.properties
+
+# Log files
+*.log
+
+# Misc
+captures/
+.externalNativeBuild/
+.cxx/
+.gradle/
