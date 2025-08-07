@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-debug-31:/layout_color_item.xml.flat",
+        "source": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-main-33:/layout/color_item.xml"
+    },
+    {
+        "merged": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-debug-31:/layout_activity_color_detail.xml.flat",
+        "source": "/Users/longwang/.gradle/daemon/8.13/com.example.colormatch.app-main-33:/layout/activity_color_detail.xml"
+    },
+    {
+        "merged": "com.example.colormatch.app-debug-31:/layout_activity_color_detail.xml.flat",
+        "source": "com.example.colormatch.app-main-33:/layout/activity_color_detail.xml"
+    }
+]

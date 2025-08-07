@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id colorInfoText
+id colorView
+id recyclerView
+id rootView
+layout activity_color_detail
+layout activity_main
+layout color_item
+string app_name
+style Theme.ColorMatch
+style Theme.ColorMatch.Fullscreen
+xml backup_rules
+xml data_extraction_rules
